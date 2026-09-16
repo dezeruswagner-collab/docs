@@ -42,6 +42,7 @@
             "group": "Game Library",
             "pages": [
               "games/overview",
+              "games/popular-coolmath-games",
               "games/action",
               "games/puzzle",
               "games/strategy",
